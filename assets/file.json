@@ -1,0 +1,29 @@
+{
+  "id" : "5000",
+  "name" : "tharwat",
+  "score" : 100,
+  "subjects" : [
+    "Math",
+    "Arabic",
+    "English"
+  ],
+  "subject" : {
+    "score" : 100,
+    "id" : "1000"
+  },
+  "allSubject" :
+  [
+    {
+      "score" : 100,
+      "id" : "1000"
+    },
+    {
+      "score" : 200,
+      "id" : "1050"
+    },
+    {
+      "score" : 300,
+      "id" : "1450"
+    }
+  ]
+}
